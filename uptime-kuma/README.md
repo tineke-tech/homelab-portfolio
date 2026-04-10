@@ -22,3 +22,40 @@ Ich habe als ersten Test den Google‑Monitor eingerichtet, um die Funktionalit�
 
 ## Ziel
 Ein vollständiges, nachvollziehbares Monitoring‑Projekt, das sowohl Lernzwecken als auch praktischer Nutzung dient.
+
+## 📊 Monitore
+
+Ich überwache aktuell folgende Dienste:
+
+- Google (HTTP)
+- Cloudflare (HTTP)
+- Wikipedia (HTTP)
+- GitHub (HTTP)
+- GitHub Port 443 (Port-Check)
+- FritzBox (Ping)
+
+## 📸 Screenshots
+
+### Google Monitor
+![Google Monitor](./Uptime%20Kuma%20Google.png)
+*Zeigt die Erreichbarkeit und Antwortzeit von google.com.*
+
+### Cloudflare Monitor
+![Cloudflare Monitor](./cloudflare.png)
+*HTTP-Check auf cloudflare.com.*
+
+### Wikipedia Monitor
+![Wikipedia Monitor](./wikipedia.png)
+*Überwachung der Wikipedia-Startseite.*
+
+### GitHub Monitor
+![GitHub Monitor](./github.png)
+*HTTP-Status von github.com.*
+
+### GitHub Port 443
+![GitHub Port 443](./githubport443.png)
+*Port-Check auf HTTPS-Port 443.*
+
+### FritzBox Ping
+![FritzBox Monitor](./fritzbox.png)
+*Ping-Monitor zur lokalen FritzBox.*
